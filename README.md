@@ -21,3 +21,5 @@ File encoding is displayed when you enter the path manually or select it from th
 * GB18030
 
 **Application can also check if a file is a binary file.**
+
+Files used for testing: [testFiles](testFiles)
